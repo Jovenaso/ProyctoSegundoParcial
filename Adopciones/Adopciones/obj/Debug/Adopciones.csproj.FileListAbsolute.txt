@@ -1,0 +1,14 @@
+C:\Users\TNK\source\repos\Adopciones\Adopciones\bin\Debug\Adopciones.exe.config
+C:\Users\TNK\source\repos\Adopciones\Adopciones\bin\Debug\Adopciones.exe
+C:\Users\TNK\source\repos\Adopciones\Adopciones\bin\Debug\Adopciones.pdb
+C:\Users\TNK\source\repos\Adopciones\Adopciones\obj\Debug\Adopciones.csprojAssemblyReference.cache
+C:\Users\TNK\source\repos\Adopciones\Adopciones\obj\Debug\Adopciones.csproj.CoreCompileInputs.cache
+C:\Users\TNK\source\repos\Adopciones\Adopciones\obj\Debug\Adopciones.exe
+C:\Users\TNK\source\repos\Adopciones\Adopciones\obj\Debug\Adopciones.pdb
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\bin\Debug\Adopciones.exe.config
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\bin\Debug\Adopciones.exe
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\bin\Debug\Adopciones.pdb
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\obj\Debug\Adopciones.csprojAssemblyReference.cache
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\obj\Debug\Adopciones.csproj.CoreCompileInputs.cache
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\obj\Debug\Adopciones.exe
+C:\Users\TNK\Desktop\AdopcionesConSingleton (2)\Adopciones\Adopciones\obj\Debug\Adopciones.pdb
